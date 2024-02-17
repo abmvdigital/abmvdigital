@@ -71,12 +71,4 @@
 
 ###
 
-<h3 align="left">🔥   Estatisticas :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abmvdigital&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=6&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
